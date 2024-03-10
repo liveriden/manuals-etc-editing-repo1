@@ -18,7 +18,7 @@ sudo nano /etc/X11/Xsession
 ERRFILE=$HOME/.xsession-errors
 ```
 
-    И замените её на:
+И замените её на:
 
 ```
 ERRFILE=/dev/null
