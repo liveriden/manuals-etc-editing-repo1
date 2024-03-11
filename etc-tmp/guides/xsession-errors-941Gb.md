@@ -1,4 +1,4 @@
-[@ubuntovod.ru](https://web.archive.org/web/20230924214130/https://ubuntovod.ru/instructions/xsession-errors.html)
+[web.archive.org@ubuntovod.ru](https://web.archive.org/web/20230924214130/https://ubuntovod.ru/instructions/xsession-errors.html)
 
 ---
 
