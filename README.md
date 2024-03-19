@@ -20,7 +20,7 @@ A repository for editing manuals - guides and documentation on a variety of topi
 
 ---
 
-# Для коммуникации и правообладателям
+# Для коммуницирования и правообладателям
 
 Здравствуйте, если в этом репозитории есть недобросовестное использование материалов, защищенных авторским правом, торговой маркой или содержит конфиденциальную информацию это не умышленно.
 Если вы обнаружили ошибки или считаете, что содержимое репозитория защищено авторским правом, торговой маркой или содержит конфиденциальную информацию, просим вас сообщить нам об этом, опишите и укажите на место ошибки или нарушения, если возможно предоставьте дополнительную информацию или доказательства, отправьте нам электронное письмо, чтобы мы отредактировали или удалили содержимое.
@@ -32,10 +32,12 @@ Hello, if this repository has unfair use of copyrighted material, trademarked ma
 If you find errors or believe that the content of the repository is protected by copyright, trademark or contains confidential information, please let us know, describe and indicate the place of the error or violation, if possible provide additional information or evidence, send us an email so that we edit or delete the content.
 We appreciate your attention to detail and are ready at the earliest to take immediate action opportunity. Thanks.
 
----
+<!--
 
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+-->
 
 <!-- liveridenʳ࿕卍☦ 2024-03-09 02:19 AM -->
