@@ -1,6 +1,6 @@
-Ссылка для визуализации содержимого файла - <a  href="https://liveriden.github.io/manuals-etc-editing-repo1/github-com-new-repository-get-started.html" rel="noopener noreferrer nofollow" target="_blank">github-com-new-repository-get-started.html</a>
+Ссылка для визуализации содержимого файла - <a  href="https://liveriden.github.io/manuals-etc-editing-repo1/docs/github-com-new-repository-get-started.html" rel="noopener noreferrer nofollow" target="_blank">github-com-new-repository-get-started.html</a>
 
-A link to visualize the contents of the file - <a  href="https://liveriden.github.io/manuals-etc-editing-repo1/github-com-new-repository-get-started.html" rel="noopener noreferrer nofollow" target="_blank">github-com-new-repository-get-started.html</a>
+A link to visualize the contents of the file - <a  href="https://liveriden.github.io/manuals-etc-editing-repo1/docs/github-com-new-repository-get-started.html" rel="noopener noreferrer nofollow" target="_blank">github-com-new-repository-get-started.html</a>
 
 ```html
 <!DOCTYPE html>
